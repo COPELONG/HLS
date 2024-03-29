@@ -1,8 +1,10 @@
-# HLS服务器demo
+#  HLS服务器demo
 
 读取m3u8索引文件发送
 
 读取index文件发送
+
+![image-20240328171505501](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/image-20240328171505501.png)
 
 ![image-20231212202757620](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/image-20231212202757620.png)
 
